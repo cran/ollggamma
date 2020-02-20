@@ -1,0 +1,9 @@
+dfa7d3f7e31b1d3bb8a6d194a32b5f7d *DESCRIPTION
+291dfe6908472c827b858210a1d844c7 *LICENSE
+637079ec51c6ec4aac707eec41183521 *NAMESPACE
+d41d8cd98f00b204e9800998ecf8427e *R/ollggamma-deprecated.R
+3321dfd89af05ab7c54a828a70641875 *R/ollggamma-package.R
+f00e6ed10bf8f2016fdfb1eedab0e572 *R/ollggamma.r
+7732e2040d28977ae98d594b04f6d008 *man/OLL-G.Gamma.Rd
+1806e5084ad30dfe22e2c6d6cec0df05 *tests/testthat.R
+4566a9d5770947f07b4b577cba4f5b11 *tests/testthat/test_ollggamma.R
